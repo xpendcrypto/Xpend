@@ -1,0 +1,9 @@
+  =>  Website Name    : Xpend Blockchain Academy
+
+  =>  Website Link    : https://xpend.us/academy
+
+  =>  Website Author  : Xpend
+
+  =>  Author Website   : https://xpend.us
+
+  =>  About Xpend : Xpend Blockchain Academy is dedicated to educating and equipping individuals with the necessary skills and knowledge to navigate the cryptocurrency landscape effectively. Through comprehensive courses, expert-led webinars, and informative resources, the academy empowers users to understand blockchain technology, cryptocurrency trading strategies, and risk management techniques.
